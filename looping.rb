@@ -1,6 +1,6 @@
-# def looping
+def looping
   loop do
 	puts "Windardium Leviosa"
 end
 
-# looping
+looping
